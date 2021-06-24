@@ -1,10 +1,8 @@
-import logo from './logo.svg';
-import './App.css';
+import "./App.css";
 
 function App() {
-  return (
-    <div className="App">
-      
+  return (<div className="App">
+     <div class="container">
         <div class="form-wrap">
             <h1>Sign Up</h1>
             <p>It'sdlkaeaeveavaavearaev</p>
@@ -36,12 +34,9 @@ function App() {
         <footer>
             <p>sdoadoadaa <a href="">Login Here</a></p>
         </footer>
-     </div>
-    
-  
-    
-    
-  );
+    </div>
+  </div>;
+    )
 }
 
 export default App;

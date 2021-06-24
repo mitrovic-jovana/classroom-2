@@ -1,28 +1,28 @@
 import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
+const App = () => (
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
+        <h4> Hello Dear Class 2021 </h4> 
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Welcome to EY!!!
         </a>
       </header>
+<<<<<<< HEAD
       <main>
         <p>My name is Momir</p>
       </main>
+=======
+      <p> Lorem ipsum dolor sit amet ... </p>
+>>>>>>> develop
     </div>
   );
-}
 
 export default App;

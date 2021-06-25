@@ -5,12 +5,14 @@ const App = () => (
   <div className="App">
     <NewComponent />
     <header className="App-header">
-      <h1>Jeca razbija</h1>
+      <h1>Jeca is the best</h1>
       <p>
         Edit <code>src/App.js</code> and save to reload.
       </p>
       <p>mrzim git mnogo</p>
-     <p><b>JECA LEGENDA!</b></p>
+      <p>
+        <b>JECA LEGENDA!</b>
+      </p>
       <h4>Dusan Mojsilovic</h4>
       <p>This is test for git!</p>
       <p>

@@ -28,6 +28,9 @@ const App = () => (
         Welcome to EY!!!
       </a>
     </header>
+    <main>
+      <p>My name is Momir</p>
+    </main>
     <p> Lorem ipsum dolor sit amet ... </p>
   </div>
 );

@@ -2,7 +2,7 @@ import './App.css';
 
 const App = () => (
     <div className="App">
-     <p>mrzim git</p>
+     <p>mrzim git mnogo</p>
      <p><b>JECA LEGENDA!</b></p>
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />

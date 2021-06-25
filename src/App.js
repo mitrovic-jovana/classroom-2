@@ -26,7 +26,7 @@ const App = () => (
         Welcome to EY!!!
       </a>
     </header>
-    <p> Lorem ipsum dolor sit amet ... </p>
+    <p>Cao drustvo... </p>
   </div>
 );
 
